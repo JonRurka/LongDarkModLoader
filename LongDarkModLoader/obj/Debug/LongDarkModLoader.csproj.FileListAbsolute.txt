@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2010\Projects\LongDarkModLoader\LongDarkModLoader\bin\Debug\LongDarkModLoader.dll
+E:\Documents\Visual Studio 2010\Projects\LongDarkModLoader\LongDarkModLoader\bin\Debug\LongDarkModLoader.pdb
+E:\Documents\Visual Studio 2010\Projects\LongDarkModLoader\LongDarkModLoader\bin\Debug\Assembly-CSharp.dll
+E:\Documents\Visual Studio 2010\Projects\LongDarkModLoader\LongDarkModLoader\bin\Debug\UnityEngine.dll
+E:\Documents\Visual Studio 2010\Projects\LongDarkModLoader\LongDarkModLoader\obj\Debug\LongDarkModLoader.dll
+E:\Documents\Visual Studio 2010\Projects\LongDarkModLoader\LongDarkModLoader\obj\Debug\LongDarkModLoader.pdb
